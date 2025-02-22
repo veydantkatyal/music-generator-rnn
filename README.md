@@ -7,6 +7,8 @@ Generate music using **LSTM-based RNN** trained on **MIDI** files.
 - Converts MIDI files into numerical data
 - Generates new music sequences
 
+## Architecture Diagram 
+![Network Architecture](./images/music_architecture.png)
 ## Installation
 ```bash
 git clone https://github.com/veydantkatyal/music-generator-rnn.git
